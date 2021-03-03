@@ -14,13 +14,13 @@ Réalisation d'un site E-commerce avec la version du Framework Symfony 5.2 : Sys
 1. Cloner le projet
 
 ```
-git clone
+git clone https://github.com/MH1000/Frenchishop.git
 ```
 
 2. Installer les dépendances requises pour l'application
 
 ```
- composer install
+composer install
 ```
 
 3. Créer un fichier avec l'extension .env.local et modifier ce fichier afin de modifier les informations de votre base de données.
